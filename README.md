@@ -33,5 +33,5 @@ Reboot device
 
 # Just note
 - Make firmware.bin : Arduino > Sketch > Export Compiled Binary
-- Make filesystem : Arduino > Tools > Sketch Data Upload, then copy file (.bin) from console information path ([SPIFFS] upload  : xxxxxx.bin)
+- Make filesystem.bin : Arduino > Tools > Sketch Data Upload, then copy file (.bin) from console information path ([SPIFFS] upload  : xxxxxx.bin)
 - For http update ota : place in [http://domain]/update/file.bin
