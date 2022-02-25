@@ -1,5 +1,5 @@
-# http_elegant_ota
-ESP8266 http and elegant ota
+# http / https and Elegant OTA
+<img src="https://github.com/hangsbreaker/http_elegant_ota/blob/main/data/favicon.ico" width="30px"/> ESP8266 http and elegant ota
 
 Show config json
 <pre>/config</pre>
